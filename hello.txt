@@ -1,2 +1,4 @@
 Welcome to git
-Know the commands of linux
+Know the commands of Linux
+This is day 2 of STP
+
