@@ -1,4 +1,7 @@
 Welcome to git
 Know the commands of Linux
-This is day 2 of STP
 
+
+We are currently in the staging area
+This is day 3
+We are running commands in git bash
