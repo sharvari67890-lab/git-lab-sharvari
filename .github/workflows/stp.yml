@@ -1,1 +1,13 @@
 this is .yml file
+Name:Display Message on Push
+
+on:
+ push:
+ 
+jobs:
+ show message:
+   runs-on:ubuntu-latest
+
+   steps:
+      name:Print message
+      run:echo "Push detceted. CI is running"
